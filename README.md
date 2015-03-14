@@ -1,5 +1,4 @@
-spectopjava01
+#SpectopJava
 =============
 
-This is the first repo I creat.
-This is the first time to use it .
+我的第一个java repo
